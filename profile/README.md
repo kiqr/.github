@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://kiqr.dev"><img src="assets/banner.svg" alt="KIQR. The CMO that lives on your machine. We build Seemo: it learns your business, plans the marketing, does the work and reads the numbers." width="100%"></a>
+  <a href="https://kiqr.dev"><img src="assets/banner-v2.svg" alt="KIQR. The CMO that lives on your machine. We build Seemo: it learns your business, plans the marketing, does the work and reads the numbers." width="100%"></a>
 </p>
 
 <p align="center">
