@@ -18,7 +18,7 @@
 It thinks with the Claude or ChatGPT plan you already pay for, and keeps everything as plain files on your machine. No account, no lock-in.
 
 ```sh
-curl -fsSL https://kiqr.dev/install.sh | sh     # then open http://127.0.0.1:7777
+curl -fsSL https://kiqr.dev/install.sh | sh     # then open http://127.0.0.1:4040
 ```
 
 <table>
